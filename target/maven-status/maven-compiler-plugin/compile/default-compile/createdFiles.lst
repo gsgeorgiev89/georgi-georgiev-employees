@@ -1,2 +1,9 @@
+com\ggeorgiev\employees\controllers\EmployeeController.class
 com\ggeorgiev\employees\EmployeesApplication.class
+com\ggeorgiev\employees\services\EmployeeService.class
+com\ggeorgiev\employees\entities\EmployeePairResponse.class
+com\ggeorgiev\employees\controllers\WebController.class
 com\ggeorgiev\employees\entities\EmployeeProject.class
+com\ggeorgiev\employees\entities\EmployeePair.class
+com\ggeorgiev\employees\entities\ProjectOverlap.class
+com\ggeorgiev\employees\services\CsvParserService.class

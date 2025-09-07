@@ -1,1 +1,4 @@
+com\ggeorgiev\employees\services\EmployeeOverlapServiceTest.class
+com\ggeorgiev\employees\services\CsvParserServiceTest.class
 com\ggeorgiev\employees\EmployeesApplicationTests.class
+com\ggeorgiev\employees\controllers\EmployeeControllerTest.class
